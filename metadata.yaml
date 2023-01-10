@@ -1,5 +1,5 @@
 homepage: "https://www.webareal.cz"
 documentation: "https://github.com/Wa-developers/facebook-api#readme"
 versions:
-  - sha: 0259a509cd833de9353a0895a7bd023e51cb552b
+  - sha: 7a3d99192d2a7fb5fa234f9ca87d8b361bcb0404
     changeNotes: Initial release.
